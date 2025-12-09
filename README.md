@@ -1,4 +1,15 @@
-## Hi there 👋
+## spstiger - Industrielle Automatisierungstechnik, die mehr kann, als sie kostet 👋
+
+### 🔭 I’m currently working on ...
+- Kleine Kundenprojekte
+- Mehr Demoprojekte
+
+### 🌱 I’m currently learning ...
+- Wie wir kleine Kundenprojekte effizient mit Partnern umsetzen können
+- Kleine Kundenprojekte mit unseren Partnern zu Preisen anbieten können, die so günstig sind wie unsere Technik
+
+###⚡ Fun fact: ...
+spstiger wurde tatsächlich 2010 im chinesischen Jahr des Tigers gegründet. Zufall? Roar. 🐅
 
 <!--
 **spstiger/spstiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
