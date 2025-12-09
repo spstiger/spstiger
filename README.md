@@ -9,6 +9,7 @@
 - Kleine Kundenprojekte mit unseren Partnern zu Preisen anbieten können, die so günstig sind wie unsere Technik
 
 ###⚡ Fun fact: ...
+
 spstiger wurde tatsächlich 2010 im chinesischen Jahr des Tigers gegründet. Zufall? Roar. 🐅
 
 <!--
